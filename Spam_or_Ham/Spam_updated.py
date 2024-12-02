@@ -20,7 +20,7 @@ nltk.download('stopwords')
 
 # %%
 # Step 1: Load the dataset
-data = pd.read_csv('email_spam.csv', encoding='ISO-8859-1')  # Update file path as needed
+data = pd.read_csv('Spam_or_Ham\email_spam.csv', encoding='ISO-8859-1')  # Update file path as needed
 
 # %%
 
